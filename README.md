@@ -18,6 +18,9 @@
 
 ### twitter
 
+いろいろなコミュニティに所属する過程でいろいろと変な気を使った結果、アカウントが用途別に分散してしまいました。
+しかし今ではほぼ [@yuitest_dev](https://twitter.com/yuitest_dev) しか使っていません。
+
 - [@yuitest_dev](https://twitter.com/yuitest_dev) ... 元々は開発用アカウントでしたが、最近はメインのアカウントとして使っています。
 - [@yuitest](https://twitter.com/yuitest) ... 元々はメインアカウントでしたが、最近はへにょへにょしてます。
 - [@yuitest_mlp](https://twitter.com/yuitest_mlp) ... My Little Pony: Friendship is Magic 用のアカウントです
