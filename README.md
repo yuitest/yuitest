@@ -30,7 +30,7 @@
 
 ### misskey.io
 
-- [@yuitest](https://misskey.io/) ... いちおう作りました。現状あまり更新しない予定です。
+- [@yuitest](https://misskey.io/@yuitest) ... いちおう作りました。現状あまり更新しない予定です。
 
 ### bsky.app
 
