@@ -26,7 +26,7 @@
 - [@yuitest_bot](https://twitter.com/yuitest_bot) ... bot です。生活の情報をツイートします。
 - [@yuitest_null](https://twitter.com/yuitest_null) ... 壁アカウントです。 @null や @tos の代わりとして使います。
 - [@yuitest_secret](https://twitter.com/yuitest_secret) ... 鍵アカウントです。鍵同士のフォロー用に作りました。
-- [@yuitext](https://twitter.com/yuitext)
+- [@yuitext](https://twitter.com/yuitext) ... 小説や詩を書いたら投稿しようと思っています。実際に何度か投稿したこともありましたが後になって恥ずかしくなって消すということを繰り返しています。
 
 ### misskey.io
 
