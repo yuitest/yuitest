@@ -28,18 +28,6 @@
 - [@yuitest_secret](https://twitter.com/yuitest_secret) ... 鍵アカウントです。鍵同士のフォロー用に作りました。
 - [@yuitext](https://twitter.com/yuitext) ... 小説や詩を書いたら投稿しようと思っています。実際に何度か投稿したこともありましたが後になって恥ずかしくなって消すということを繰り返しています。
 
-### misskey.io
-
-- [@yuitest](https://misskey.io/@yuitest) ... いちおう作りました。現状あまり更新しない予定です。
-
-### bsky.app
-
-- [@yuitest.bsky.social](https://bsky.app/profile/yuitest) ... いちおう作りました。現状あまり更新しない予定です。
-
-### mstdn.jp
-
-- [@yuitest@mstdn.jp](https://mstdn.jp/@yuitest)
-
 ### Discord
 
 スパム防止のため直接のリンクはしません。ユーザ ID は `1**67**4**46**35*4` (`*` は伏せ字) です。
@@ -48,3 +36,17 @@
 
 スパム防止のため直接の記述はしません。 `y*****t@c***t.***` (`*` は伏せ字) です。
 (GitHub のコミットなどから容易にわかってしまうとは思いますが)
+
+### ActivityPub 系
+
+#### misskey.io
+
+- [@yuitest@misskey.io](https://misskey.io/@yuitest) ... いちおう作りました。現状あまり更新しない予定です。
+
+#### mstdn.jp
+
+- [@yuitest@mstdn.jp](https://mstdn.jp/@yuitest) ... いちおう作りました。現状あまり更新しない予定です。
+
+### bsky.app
+
+- [@yuitest.bsky.social](https://bsky.app/profile/yuitest) ... いちおう作りました。現状あまり更新しない予定です。
