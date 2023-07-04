@@ -36,6 +36,10 @@
 
 - [@yuitest.bsky.social](https://bsky.app/profile/yuitest) ... いちおう作りました。現状あまり更新しない予定です。
 
+### mstdn.jp
+
+- [@yuitest@mstdn.jp](https://mstdn.jp/@yuitest)
+
 ### Discord
 
 スパム防止のため直接のリンクはしません。ユーザ ID は `1**67**4**46**35*4` (`*` は伏せ字) です。
