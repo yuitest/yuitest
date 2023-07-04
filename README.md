@@ -29,9 +29,9 @@
 
 - [@yuitest_dev](https://twitter.com/yuitest_dev) ... 元々は開発用アカウントでしたが、最近はメインのアカウントとして使っています。
 - [@yuitest](https://twitter.com/yuitest) ... 元々はメインアカウントでしたが、最近はへにょへにょしてます。
-- [@yuitest_mlp](https://twitter.com/yuitest_mlp) ... My Little Pony: Friendship is Magic 用のアカウントです
-- [@yuitest_mlp2](https://twitter.com/yuitest_mlp2) ... My Little Pony: Friendship is Magic のネタバレ・実況用のアカウントでした
-- [@yuitest_share](https://twitter.com/yuitest_share) ... アレなシャレをシェアするアカウントです
+- [@yuitest_mlp](https://twitter.com/yuitest_mlp) ... My Little Pony: Friendship is Magic 用のアカウントです。
+- [@yuitest_mlp2](https://twitter.com/yuitest_mlp2) ... My Little Pony: Friendship is Magic のネタバレ・実況用のアカウントでした。
+- [@yuitest_share](https://twitter.com/yuitest_share) ... アレなシャレをシェアするアカウントです。
 - [@yuitest_bot](https://twitter.com/yuitest_bot) ... bot です。生活の情報をツイートします。
 - [@yuitest_null](https://twitter.com/yuitest_null) ... 壁アカウントです。 @null や @tos の代わりとして使います。
 - [@yuitest_secret](https://twitter.com/yuitest_secret) ... 鍵アカウントです。鍵同士のフォロー用に作りました。
