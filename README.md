@@ -46,7 +46,7 @@
 スパム防止のため直接の記述はしません。 `y*****t@c***t.***` (`*` は伏せ字) です。
 (GitHub のコミットなどから容易にわかってしまうとは思いますが)
 
-### ActivityPub 系
+### Fediverse 系
 
 #### misskey.io
 
@@ -56,6 +56,10 @@
 
 - [@yuitest@mstdn.jp](https://mstdn.jp/@yuitest) ... いちおう作りました。現状あまり更新しない予定です。
 
-### bsky.app
+#### threads.net
+
+- [@_yuitest](https://www.threads.net/@_yuitest) ... いちおう作りました。現状あまり更新しない予定です。
+
+#### bsky.app
 
 - [@yuitest.bsky.social](https://bsky.app/profile/yuitest) ... いちおう作りました。現状あまり更新しない予定です。
