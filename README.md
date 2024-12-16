@@ -67,3 +67,7 @@ https://note.com/yuitest/ ... いちおう作りました。現状あまり更�
 #### bsky.app
 
 - [@yuitest.bsky.social](https://bsky.app/profile/yuitest) ... いちおう作りました。現状あまり更新しない予定です。
+
+### その他
+
+- mixi2 [yuitest](https://mixi.social/@yuitest) ... いちおう作りました。現状あまり更新しない予定です。
